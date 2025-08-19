@@ -43,7 +43,7 @@ Para executar o programa, você precisa ter o **Java instalado** na sua máquina
 
 ### ✒️ Autor
 
-* **Victória Suares** - [Github] (https://github.com/suares13)
+* **Victória Suares** - [Github](https://github.com/suares13)
 * [LinkedIn](https://www.linkedin.com/in/victoria-suares/)
 
 ### 🎓 Agradecimentos
